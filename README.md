@@ -1,1 +1,4 @@
-# Tic-Tac-Toe-Game
+# TicTacToe
+Python Pygame TicTacToe
+
+![TicTacToe](screenshot/ss.jpg "TicTacToe")
