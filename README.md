@@ -29,5 +29,10 @@ A simple yet exciting two-player Tic Tac Toe game built using Python and Pygame.
 
 ### Running the Game
 To run the game, execute the Python script:
-  ```bash
-  python game.py
+    ```bash
+    python game.py
+
+
+
+
+![Tic Tac Toe Screenshot](https://github.com/indranil143/Tic-Tac-Toe-Game/blob/main/screenshot/ss.png)
