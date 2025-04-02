@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game ;)
 
 A fun and interactive **two-player Tic Tac Toe game** built using **Python and Pygame**. Simple to play yet exciting, with sound effects, winner detection, and a smooth UI.
 
