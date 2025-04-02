@@ -3,7 +3,9 @@
 A fun and interactive **two-player Tic Tac Toe game** built using **Python and Pygame**. Simple to play yet exciting, with sound effects, winner detection, and a smooth UI.
 
 ## 📸 Preview  
-![Tic Tac Toe Screenshot](https://github.com/indranil143/Tic-Tac-Toe-Game/blob/main/ss.png)  
+<p align="center">
+  <img src="https://github.com/indranil143/Tic-Tac-Toe-Game/blob/main/ss.png" alt="Tic Tac Toe Screenshot">
+</p>
 
 ## ✨ Features  
 ✅ **Two-Player Gameplay** – Players take turns clicking on the grid to place their marks (**X** or **O**).  
