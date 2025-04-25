@@ -13,7 +13,7 @@ FadeTacToe is a visually enhanced version of the classic Tic Tac Toe game built 
 ---
 
 ## 🎮 Features
-- 🔁 Classic Two-Player 3x3 Tic Tac Toe gameplay - Players take turns clicking on the grid to place their marks (**X** or **O**)
+- 🔁 Classic Two-Player 3x3 Tic Tac Toe gameplay - (players alternate clicks to place `X` or `O` on the grid)
 - 🌟 Cool visual effect: only 3 moves stay visible for each player
 - 🎨 Smooth image rendering and fading animation
 - 🔊 Sound effects for moves and game over
