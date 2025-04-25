@@ -5,12 +5,12 @@ FadeTacToe is a visually enhanced version of the classic Tic Tac Toe game built 
 
 ---
 
-
 ## 📸 Preview  
 <p align="center">
-  <img src="https://github.com/indranil143/Tic-Tac-Toe-Game/blob/main/ss.png" alt="Tic Tac Toe Screenshot">
+  <img src="https://github.com/indranil143/Fade-Tac-Toe-Game/blob/main/SS.png" alt="Fade Tac Toe Screenshot">
 </p>
 
+---
 
 ## 🎮 Features
 - 🔁 Classic Two-Player 3x3 Tic Tac Toe gameplay - Players take turns clicking on the grid to place their marks (**X** or **O**)
@@ -21,7 +21,6 @@ FadeTacToe is a visually enhanced version of the classic Tic Tac Toe game built 
 - 🔄 Press `SPACE` to restart after a win or draw
 
 ---
-
 
 ## 🛠️ Requirements  
 - **Python 3.x**  
@@ -54,4 +53,6 @@ Run the script to start playing:
 python game.py
 ```
 
-👾 Enjoy the game! Have fun battling it out in Tic Tac Toe! 🚀🎉
+👾 Enjoy the game! Have fun battling it out in (Fade) Tic Tac Toe! 🚀🎉
+
+---
