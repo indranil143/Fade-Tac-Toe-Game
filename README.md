@@ -1,5 +1,5 @@
 
-# 🕹️ FadeTacToe - A Stylish Tic Tac Toe Game with Disappearing Moves
+# 🕹️ FadeTacToe - A Stylish Tic Tac Toe Game with Sound Effects and Disappearing Moves
 
 FadeTacToe is a visually enhanced version of the classic Tic Tac Toe game built with Python and Pygame. It introduces a fun mechanic: each player can have only **3 visible moves** on the board at a time. As new moves are made, older ones **fade** and then **disappear**, adding a dynamic visual twist to the strategy. Simple to play yet exciting, with sound effects, winner detection, and a smooth UI.
 
